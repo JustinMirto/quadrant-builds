@@ -6,12 +6,17 @@
 /[Tt]emp/
 /[Oo]bj/
 <<<<<<< HEAD
+<<<<<<< HEAD
 #/[Bb]uild/
 #/[Bb]uilds/
 =======
 /[Bb]uild/
 /[Bb]uilds/
 >>>>>>> 7bbbcaaf48af9095b901051f5424f2123430f3ff
+=======
+/[Bb]uild/
+/[Bb]uilds/
+>>>>>>> d23846b1557ec268f162699ab21661f0bd8c75ce
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
