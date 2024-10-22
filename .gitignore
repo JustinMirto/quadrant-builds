@@ -5,8 +5,13 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
+<<<<<<< HEAD
 #/[Bb]uild/
 #/[Bb]uilds/
+=======
+/[Bb]uild/
+/[Bb]uilds/
+>>>>>>> 7bbbcaaf48af9095b901051f5424f2123430f3ff
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
